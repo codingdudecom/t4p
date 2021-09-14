@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>tutorials &#8211; Textures4Photoshop Blog</title>
+	<atom:link href="/blog/tag/tutorials/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>High Quality Textures for Free</description>
+	<lastBuildDate>Tue, 17 Jul 2018 11:30:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.3</generator>
+
+<image>
+	<url>/blog/wp-content/uploads/2017/10/cropped-textures-logo1.png</url>
+	<title>tutorials &#8211; Textures4Photoshop Blog</title>
+	<link>/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">194803141</site>	<item>
+		<title>How To Turn Day Into Night Effect Photoshop Tutorial</title>
+		<link>/blog/how-to-turn-day-into-night-effect-photoshop-tutorial/</link>
+					<comments>/blog/how-to-turn-day-into-night-effect-photoshop-tutorial/#comments</comments>
+		
+		<dc:creator><![CDATA[textures4photoshop.com]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2017 07:16:14 +0000</pubDate>
+				<category><![CDATA[Video Tutorials]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<guid isPermaLink="false">/blog/?p=429</guid>
+
+					<description><![CDATA[<p>In this Photoshop video tutorial I'm transforming a daytime scene into a night scene. I'm starting from a photo of a lighthouse taken in day light and applying a cool night effect which you can achieve in only a few steps. Day To Night Final Result To complete this tutorial you will need these textures: [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/how-to-turn-day-into-night-effect-photoshop-tutorial/">How To Turn Day Into Night Effect Photoshop Tutorial</a> appeared first on <a rel="nofollow" href="/blog">Textures4Photoshop Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="pl-429"  class="panel-layout" ><div id="pg-429-0"  class="panel-grid panel-no-style" ><div id="pgc-429-0-0"  class="panel-grid-cell" ><div id="panel-429-0-0-0" class="so-panel widget panel-first-child" data-index="0" ></div><div id="panel-429-0-0-1" class="so-panel widget widget_media_video" data-index="1" ><div class="no-svg panel-widget-style panel-widget-style-for-429-0-0-1" ><div style="width:100%;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-429-1" preload="metadata" controls="controls"><source type="video/youtube" src="https://www.youtube.com/watch?v=MHr-CT8sPGw&#038;_=1" /><a href="https://www.youtube.com/watch?v=MHr-CT8sPGw">https://www.youtube.com/watch?v=MHr-CT8sPGw</a></video></div></div></div><div id="panel-429-0-0-2" class="so-panel widget panel-last-child" data-index="2" ></div></div></div></div><p>The post <a rel="nofollow" href="/blog/how-to-turn-day-into-night-effect-photoshop-tutorial/">How To Turn Day Into Night Effect Photoshop Tutorial</a> appeared first on <a rel="nofollow" href="/blog">Textures4Photoshop Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blog/how-to-turn-day-into-night-effect-photoshop-tutorial/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">429</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+
+Served from: www.textures4photoshop.com @ 2021-09-14 12:07:18 by W3 Total Cache
+-->
